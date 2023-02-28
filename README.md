@@ -1,0 +1,1 @@
+# scm-merge-confict
